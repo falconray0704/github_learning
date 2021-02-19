@@ -1,0 +1,10 @@
+Newfile for testing rebase.
+rebase commit 1
+rebase commit 3
+rebase commit 4
+rebase commit 5
+rebase commit 6
+rebase commit 7
+rebase commit 8, amended
+rebase commit 9
+rebase commit 10
